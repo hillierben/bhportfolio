@@ -3,16 +3,19 @@
 
 ## Contents
 
-[Aim of the website](#aim-of-the-website)
+- [Aim of the website](#aim-of-the-website)
 
-[Key Objectives](#key-objectives)
+- [Key Objectives](#key-objectives)
 
-[Inspiration](#inspiration)
+- [Inspiration](#inspiration)
+
+<br>
+
+# Distinctiveness and Complexity
 
 <br>
 
 ## Aim of the website
-
 
 - **Portfolio website**
 - Present all my projects
@@ -60,5 +63,15 @@ is one way to write this
 
 
 ### Django
+
+<br>
+
+# Files and Code
+
+What is in the files...
+
+<br>
+
+# How to run the application
 
 
