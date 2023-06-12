@@ -32,9 +32,10 @@
 ## Inspiration
 
 ```yaml
-Get design ideas from other sites
+How to write example code. Use yaml
 
-- with: '<h1>Get Ideas</h1>' 
+# formate like this
+- example: '<h1>Get Ideas</h1>' 
 and again: # What colour is this
 
 is one way to write this
