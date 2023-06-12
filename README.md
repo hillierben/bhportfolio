@@ -31,4 +31,12 @@
 
 ## Inspiration
 
+```yaml
 Get design ideas from other sites
+
+- with: '<h1>Get Ideas</h1>' 
+and again: # What colour is this
+
+is one way to write this
+```
+
