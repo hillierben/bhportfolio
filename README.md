@@ -1,4 +1,5 @@
 # Final Project Ideas
+---
 
 ## Contents
 
@@ -11,6 +12,7 @@
 <br>
 
 ## Aim of the website
+---
 
 - **Portfolio website**
 - Present all my projects
@@ -20,16 +22,20 @@
 <br>
 
 ## Key Objectives
+---
 
 - Design the interface with Sigma
 - Code the frontend with React
 - Build an API with Django Rest API
 - Design original icons
 - Design original logos
+- Docker Compose for deployment
+- Mobile Responsive
 
 <br>
 
 ## Inspiration
+---
 
 ```yaml
 How to write example code. Use yaml
@@ -40,4 +46,19 @@ and again: # What colour is this
 
 is one way to write this
 ```
+
+<br>
+
+## Frontend
+---
+
+### React
+
+<br>
+
+## Backend
+---
+
+### Django
+
 
