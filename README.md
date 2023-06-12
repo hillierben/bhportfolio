@@ -8,12 +8,16 @@
 
 [Inspiration](#inspiration)
 
+<br>
+
 ## Aim of the website
 
 - **Portfolio website**
 - Present all my projects
 - Blog and tutorials of what I build
 - Community social media forum
+
+<br>
 
 ## Key Objectives
 
@@ -22,6 +26,8 @@
 - Build an API with Django Rest API
 - Design original icons
 - Design original logos
+
+<br>
 
 ## Inspiration
 
